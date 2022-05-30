@@ -1152,7 +1152,7 @@ a:hover {
 	}
 
 	.split .text-container {
-		width: 400px;
+		width: 60rem;
 		color: #fff;
 	}
 	/* end of details */
@@ -1427,7 +1427,6 @@ canvas{
 
   .imtip {
 	position: absolute;
-    bottom: -59rem;
     right: 0;
 }
 
@@ -2040,11 +2039,10 @@ opacity: 0;
         top: 1rem
     }
 	.slider {
-		width: 760px;
+		width: 45rem;
 	}
 	.imtip {
 		position: absolute;
-		bottom: -30rem;
 		right: 12rem;
 	  }
 }
