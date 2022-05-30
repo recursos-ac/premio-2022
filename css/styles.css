@@ -2154,6 +2154,12 @@ opacity: 0;
     left: 12rem;
   }
 
+  .imtip3 {
+    position: absolute;
+    z-index: -2;
+    right: 0rem;
+  }
+
   .split.mobile-divider.margin-b {
     margin-bottom: -5rem;
 }
