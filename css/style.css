@@ -2,6 +2,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   background-color: #fff;
   height: 200vh;
+  background: #040404;
   position: relative; }
   body:before {
     content: "";
@@ -460,6 +461,7 @@ a {
           padding: 0 2em 2em;
           margin: 0;
           color: #494949; 
+          background: white;
           display: -webkit-box;
           -webkit-box-orient: vertical;
           -webkit-line-clamp: 3;
